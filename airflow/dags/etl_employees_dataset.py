@@ -4,7 +4,7 @@ from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from airflow.operators.bash import BashOperator
 from airflow.models import Variable
-
+ALTERAÇÃO RODRIGO SANTANA
 
 DEFAULT_ARGS = {
     'owner': 'Airflow',
